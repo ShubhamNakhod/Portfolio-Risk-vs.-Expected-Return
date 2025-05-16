@@ -1,6 +1,6 @@
 # Efficient Frontier: Portfolio Risk vs. Expected Return
 
-## 📌 Project Overview
+## Project Overview
 This project simulates the Efficient Frontier for portfolio optimization by analyzing the trade-off between risk (volatility) and expected return using real stock market data. 
 It fetches historical prices from Yahoo Finance, computes expected returns and covariance, and simulates portfolio allocations to visualize risk-return relationships.
 
