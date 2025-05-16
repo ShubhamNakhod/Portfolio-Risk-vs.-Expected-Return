@@ -2,7 +2,7 @@
 
 This project visualizes the Efficient Frontier using real stock data and simulates thousands of portfolios to analyze the trade-off between risk and return. It calculates expected returns, portfolio variance, and the Sharpe Ratio to identify optimal investment strategies.
 
-<pre> ```text Project Structure
+<pre> ```Project Structure
 ├── Portfolio Risk & Expected Return.py    # Main simulation and visualization script
 ├── Portfolio Risk vs Expected Return.png  # Final Efficient Frontier plot
 └── README.md                              # Project documentation ```</pre>
@@ -44,12 +44,12 @@ Sample Output
 - Installation
 Install required Python libraries:
 bash
-pip install numpy pandas matplotlib yfinance
+<pre> ``` pip install numpy pandas matplotlib yfinance ```</pre>
 
 - Usage
 Run the script:
 bash
-python "Portfolio Risk & Expected Return.py"
+<pre> ``` python "Portfolio Risk & Expected Return.py" ```</pre>
 
 - Applications
 * Portfolio Optimization: Helps identify the most efficient asset allocation.
